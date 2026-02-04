@@ -62,7 +62,4 @@ jupyter notebook notebook_anomalyy_holidays.ipynb
 
 ---
 
-If you want, I can also:
-- generate a `requirements.txt` from the notebook imports,
-- add a short `LICENSE` (MIT), or
-- create a minimal script to reproduce the anomalies analysis from the notebook.
+
